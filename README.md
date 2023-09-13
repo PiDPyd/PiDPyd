@@ -1,5 +1,4 @@
 <h1 align="center">Hi There, 👋<h1>
-<img width="80%" src="https://github.com/PiDPyd/PiDPyd/blob/main/Untitled%20design%20(1).png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pidpyd&label=Profile%20views&color=ffbf00&style=flat" alt="pidpyd" /> </p>
   
 <h4>Language and Tools<h4>
